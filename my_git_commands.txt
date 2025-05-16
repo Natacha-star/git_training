@@ -1,0 +1,105 @@
+    1  git version
+    2  git 
+    3  git clone https://github.com/Pelino-Courses/pyfun-challenge-Natacha-star.git
+    4  cd
+    5  pwd
+    6  git version
+    7  pwd
+    8  ls
+    9  ls -l
+   10  whoami
+   11  date
+   12  history
+   13  cd ~
+   14  pwd
+   15  cd downloads
+   16  ls
+   17  cp downloads desktop
+   18  mv downloads desktop
+   19  pwd
+   20  ls
+   21  cd ..
+   22  ls
+   23  git config --global user.name "Natacha-star"
+   24  git config --global user.email "natachairakunda@gmail.com"
+   25  git config --list
+   26  git config –global credential.helper store
+   27  git config –-global credential.helper store
+   28  git config –-global credential.helper store
+   29  git config --global credential.helper store
+   30  git clone https://github.com/sallymmx/ActionCLIP.git
+   31  git clone https://github.com/sallymmx/ActionCLIP.git
+   32  git config --show-origin --get protocol.allow
+   33  git config --global protocol.allow always
+   34  git clone https://github.com/sallymmx/ActionCLIP.git
+   35  git config --show-origin --get protocol.allow
+   36  git config --global protocol.allow always
+   37  git clone https://github.com/sallymmx/ActionCLIP.git
+   38  pwd
+   39  cd Documents/Klab/Physical/Advanced
+   40  ls
+   41  cd 'git and github'
+   42  mkdir git and github
+   43  mkdir 'git and github'
+   44  rm -rf and
+   45  rm -rf git
+   46  rm -rf github
+   47  ls
+   48  git clone https://github.com/UnseenWizzard/git_training.git
+   49  git clone https://github.com/Natacha-star/git_training.git
+   50  rm fr git_training
+   51  rm rf git_training
+   52  rm -rf git_training
+   53  git clone https://github.com/Natacha-star/git_training.git
+   54  cd git_training
+   55  ls
+   56  mv git_training git and github
+   57  mv git_training 'git and github'
+   58  mv 'git_training' 'git and github'
+   59  cd ..
+   60  mv 'git_training' 'git and github'
+   61  pwd
+   62  cd git and github
+   63  cd 'git and github'
+   64  cd git_training
+   65  touch Bob.txt
+   66  git status
+   67  git add Bob.txt
+   68  git commit -m "added Bob.txt file"
+   69  git status
+   70  git push
+   71  touch Naty.txt Annick.txt
+   72  git add.
+   73  git add .
+   74  git status
+   75  git commit -m "added two files Naty.txt and Annick.txt"
+   76  git status
+   77  git push
+   78  git rm -rf Bob.txt
+   79  ls
+   80  git commit -m "removed bob.txt"
+   81  git push
+   82  git commit
+   83  touch bob.txt
+   84  git add .
+   85  git commit -m "created again bob.txt"
+   86  git push
+   87  pwd
+   88  ls
+   89  cat alice.txt
+   90  nano alice.txt
+   91  cat allice.txt
+   92  cat alice.txt
+   93  pwd
+   94  ls
+   95  cd bob.txt
+   96  cat bob.txt
+   97  nano bob.txt
+   98  git status
+   99  git diff
+  100  git add .
+  101  git status
+  102  git diff
+  103  git commit -m "dited both alice.txt and bob.txt"
+  104  history > my_git_commands.txt
+  105  history > my_git_commands.txt
